@@ -1,6 +1,10 @@
-name: "foobt :: blog"
-description: "jboydt's blog @ foobt"
+title: "readings and commonplaces"
+author: "jboydt"
+description: ""
 url: "http://jboydt.github.io"
+
+lang: en
+timezone: UTC
 
 remote_theme: yous/whiteglass
 plugins:
