@@ -28,7 +28,7 @@ url: "https://jboydt.github.io"
 github_username: jboydt
 
 # Build settings
-theme: jekyll-theme-slate
+theme: minima
 plugins:
   - jekyll-feed
   - jekyll-paginate
