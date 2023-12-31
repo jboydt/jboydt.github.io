@@ -1,6 +1,5 @@
 ---
 title: "The Evolution of Physics"
-layout: post
 tags:
   - science
   - physics

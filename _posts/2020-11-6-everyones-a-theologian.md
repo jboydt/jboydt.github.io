@@ -1,6 +1,5 @@
 ---
 title: "Everyone's a Theologian"
-layout: post
 tags:
   - religion
   - theology

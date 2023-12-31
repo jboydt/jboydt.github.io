@@ -1,6 +1,5 @@
 ---
 title: "Human Action: A Treatise on Economics (Part One)"
-layout: post
 tags:
   - economics
 ---

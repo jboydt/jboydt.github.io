@@ -1,6 +1,5 @@
 ---
 title: Paul Tillich, "Dynamics of Faith"
-layout: post
 tags:
   - religion
   - theology

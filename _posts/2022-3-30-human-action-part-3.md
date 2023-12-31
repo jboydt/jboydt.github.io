@@ -1,6 +1,5 @@
 ---
 title: "Human Action: A Treatise on Economics (Part Three)"
-layout: post
 tags:
   - economics
 ---

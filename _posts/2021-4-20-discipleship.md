@@ -1,6 +1,5 @@
 ---
 title: "Discipleship"
-layout: post
 tags:
   - religion
   - theology

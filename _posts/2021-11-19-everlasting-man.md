@@ -1,6 +1,5 @@
 ---
 title: "The Everlasting Man"
-layout: post
 tags:
   - religion
   - apologetics

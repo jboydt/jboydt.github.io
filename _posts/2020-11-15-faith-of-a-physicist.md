@@ -1,6 +1,5 @@
 ---
 title: "The Faith of a Physicist"
-layout: post
 tags:
   - religion
   - theology

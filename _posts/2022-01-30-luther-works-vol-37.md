@@ -1,6 +1,5 @@
 ---
 title: "Luther's Works: Word and Sacrament III, Vol. 37"
-layout: post
 tags:
   - religion
 ---

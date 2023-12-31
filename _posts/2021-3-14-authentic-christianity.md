@@ -1,6 +1,5 @@
 ---
 title: "Authentic Christianity"
-layout: post
 tags:
   - religion
 ---

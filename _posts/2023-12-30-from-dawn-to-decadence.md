@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "From Dawn to Decadence"
 tags:
   - history

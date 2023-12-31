@@ -1,6 +1,5 @@
 ---
 title: "Systematic Theology, Volume One"
-layout: post
 tags:
   - religion
   - theology
