@@ -1,5 +1,6 @@
 ---
 title: "Fooled by Randomness"
+layout: post
 tags:
   - economics
 ---

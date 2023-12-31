@@ -1,5 +1,6 @@
 ---
 title: "The Passion of the Western Mind"
+layout: post
 tags:
   - history
 ---

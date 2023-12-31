@@ -1,5 +1,6 @@
 ---
 title: "Orthodoxy: The Romance of Faith"
+layout: post
 tags:
   - religion
   - apologetics

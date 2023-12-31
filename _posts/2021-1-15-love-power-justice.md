@@ -1,5 +1,6 @@
 ---
 title: "Love, Power and Justice"
+layout: post
 tags:
   - religion
   - theology

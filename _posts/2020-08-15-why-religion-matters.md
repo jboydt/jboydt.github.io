@@ -1,5 +1,6 @@
 ---
 title: "Why Religion Matters"
+layout: post
 tags:
   - religion
   - science

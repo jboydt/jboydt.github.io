@@ -1,5 +1,6 @@
 ---
 title: "From Dawn to Decadence"
+layout: post
 tags:
   - history
   - intellectual history

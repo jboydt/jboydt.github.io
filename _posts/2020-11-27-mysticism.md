@@ -1,5 +1,6 @@
 ---
 title: "Mysticism: A Study in Nature and Development of Spiritual Consciousness"
+layout: post
 tags:
   - religion
   - mysticism

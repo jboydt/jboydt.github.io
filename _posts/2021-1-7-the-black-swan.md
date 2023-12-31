@@ -1,5 +1,6 @@
 ---
 title: "The Black Swan"
+layout: post
 tags:
   - economics
 ---

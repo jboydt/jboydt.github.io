@@ -1,5 +1,6 @@
 ---
 title: "Worldviews in Conflict"
+layout: post
 tags:
   - philosophy
   - religion

@@ -1,5 +1,6 @@
 ---
 title: "Theology of Culture"
+layout: post
 tags:
   - religion
   - theology

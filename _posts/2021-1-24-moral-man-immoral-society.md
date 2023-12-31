@@ -1,5 +1,6 @@
 ---
 title: "Moral Man and Immoral Society"
+layout: post
 tags:
   - religion
   - society

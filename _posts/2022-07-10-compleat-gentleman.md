@@ -1,5 +1,6 @@
 ---
 title: "The Compleat Gentleman"
+layout: post
 tags:
   - personal growth
   - history

@@ -1,5 +1,6 @@
 ---
 title: "The Pursuit of God"
+layout: post
 tags:
   - religion
   - theology
