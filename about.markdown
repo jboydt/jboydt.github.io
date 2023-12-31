@@ -3,14 +3,10 @@ title: about
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+You have stumbled upon my personal book notes, quotes, and commonplaces.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+If you are interested in commonplaces particularly, see the following:
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-[jekyll-organization]: https://github.com/jekyll
+- [Commonplace book](https://en.wikipedia.org/wiki/Commonplace_book)
+- [How and Why to Keep a Commonplace Book](https://ryanholiday.net/how-and-why-to-keep-a-commonplace-book/)
+- [A Brief Guide to Keeping a Commonplace Book](https://notebookofghosts.com/2018/02/25/a-brief-guide-to-keeping-a-commonplace-book/)
